@@ -1,5 +1,5 @@
 # MuJoCo.jl
-A light-weight Julia wrapper for [MuJoCo](https://mujoco.org/)
+A light-weight Julia wrapper for the [MuJoCo Physics Simulator](https://mujoco.org/) 
 
 ## Installation
 1. Open your Julia REPL by typing  `julia` in your terminal.

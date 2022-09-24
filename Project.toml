@@ -1,7 +1,7 @@
 name = "MuJoCo"
 uuid = "d144bad3-515b-4a7e-a9e1-688e504aa124"
 authors = ["Alphonsus Adu-Bredu"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 CondaPkg = "992eb4ea-22a4-4c89-a5bb-47a3300528ab"

@@ -1,0 +1,13 @@
+<mujoco>
+    <worldbody>
+        <light name="top" pos="0 0 1"/>
+        <geom type="plane" size="1 1 0.1" rgba=".7 .7 .7 1"/>
+        <body name="box" pos="0 0 1" euler="0 0 -30">
+            <joint name="freej" type="free"/>
+            <geom name="red_box" type="box" size=".2 .2 .2" rgba="1 0 0 1"/> 
+        </body>
+    </worldbody>
+    <actuator>
+        <motor name="fmotor" joint="freej"/>
+    </actuator>
+</mujoco>

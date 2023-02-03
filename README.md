@@ -9,7 +9,11 @@ A light-weight Julia wrapper for the [MuJoCo Physics Simulator](https://mujoco.o
 4. Press the `Backspace` key on your keyboard to return to the REPL
 
 ## Features
-This package wraps DeepMind's [dm_control](https://github.com/deepmind/dm_control) Python package that provides access to the core MuJoCo package as well as some useful environments for Reinforcement Learning and interactive simulator viewing.
+This package wraps DeepMind's [dm_control](https://github.com/deepmind/dm_control) Python package that provides access to the core MuJoCo package as well as some useful environments for Reinforcement Learning and interactive simulator viewing. 
+
+This package also wraps [rohanpsingh's](https://github.com/rohanpsingh) amazing [mujoco-python-viewer](https://github.com/rohanpsingh/mujoco-python-viewer) for interactive simulation.
 
 ## Usage
 See the [examples](examples) folder for usage examples.
+
+![](media/mujoco_viz.gif)

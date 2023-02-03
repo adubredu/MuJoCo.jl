@@ -2,4 +2,6 @@
 python = "=3.8"
 
 [pip.deps]
+mujoco-python-viewer = ""
 dm-control = ""
+pyyaml = ""

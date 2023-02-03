@@ -1,13 +1,15 @@
 name = "MuJoCo"
 uuid = "d144bad3-515b-4a7e-a9e1-688e504aa124"
 authors = ["Alphonsus Adu-Bredu"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 CondaPkg = "992eb4ea-22a4-4c89-a5bb-47a3300528ab"
 PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
 
-[compat]
+[compat] 
+CondaPkg = "0.2" 
+PythonCall = "0.9" 
 julia = "1"
 
 [extras]

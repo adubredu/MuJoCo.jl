@@ -20,3 +20,6 @@ This package also wraps [rohanpsingh's](https://github.com/rohanpsingh) amazing 
 See the [examples](examples) folder for usage examples.
 
 ![](media/mujoco_viz.gif)
+
+## Note
+This package is no more maintained. For a more reliable and faster MuJoCo julia wrapper,  check out this new cool MuJoCo.jl package: https://github.com/JamieMair/MuJoCo.jl
